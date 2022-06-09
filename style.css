@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    box-sizing: border-box;
+}
+@media(min-width: 768px ){
+  
+}
+
+:root {
+    --gradient: linear-gradient(to left top, #DD2476 10%, #FF512F 90%) !important;
+  }
+  body {
+    background: #fff !important;
+    /*font-family: 'Dancing Script', cursive, 'Noto Serif', serif, 'Poppins', sans-serif;*/
+  } 
+  
+
+#Services{
+    text-align: center;
+    font-size: 18px;
+   
+  }
+    
+#Services h2{
+    font-family: 'Popins', sans-serif;
+    color: #333;
+}
+#learn1{
+  background-color: #FF512F;
+  color: #fff;
+}
